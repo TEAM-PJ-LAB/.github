@@ -1,0 +1,67 @@
+<p align="center">
+  <a href="https://team-pj-lab.github.io">
+    <img src="https://team-pj-lab.github.io/assets/brand/pj-profile.png" width="168" alt="PJ Group logo">
+  </a>
+</p>
+
+<h1 align="center">PJ Group</h1>
+
+<p align="center">
+  <b>From code to companies.</b><br>
+  소프트웨어로 시작해, 사업으로 증명합니다.
+</p>
+
+<p align="center">
+  <a href="https://team-pj-lab.github.io"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="mailto:pj.southkorea@gmail.com"><b>Contact</b></a> &nbsp;·&nbsp;
+  <a href="https://team-pj-lab.github.io/?lang=ko">한국어</a> &nbsp;·&nbsp;
+  <a href="https://team-pj-lab.github.io/?lang=en">English</a>
+</p>
+
+---
+
+### About
+
+**PJ Group** is a software company that designs and operates a range of businesses built on software.<br>
+**PJ Group(PJ그룹)** 은 소프트웨어를 중심으로 다양한 사업을 설계하고 운영하는 회사입니다.
+
+### What we do
+
+| Area | 분야 | Focus |
+| --- | --- | --- |
+| **Software Development** | 소프트웨어 개발 | Web · App · Backend |
+| **Platform Services** | 플랫폼 서비스 | Marketplace · Community · SaaS |
+| **Data & AI** | 데이터 & AI | Data · ML · Automation |
+| **New Ventures** | 신규 사업 | Incubation · Spin-off · Partnership |
+
+### Team PJ
+
+The first team at PJ Group — and today, our **main development team**. CTO: **Park Bugeon (박부건)**.<br>
+PJ Group의 첫 번째 팀이자, 현재 회사의 **메인 개발팀**입니다.
+
+### Leadership
+
+| Name | Role |
+| --- | --- |
+| **Jung Woojin** · 정우진 | Co-CEO · 공동대표 |
+| **Park Bugeon** · 박부건 | Co-CEO · CTO, Team PJ · External Relations · 대외 연락 |
+
+### Status
+
+**Now — Seed stage.** PJ Group is raising its foundation capital.<br>
+현재 PJ Group은 회사의 기초 자금을 모으고 있습니다.
+
+| Phase | |
+| --- | --- |
+| **01 — Foundation** (now) | Company formation & foundation capital · 회사 설립 및 기초 자금 조성 |
+| **02 — Build** (ongoing) | Core product development led by Team PJ · Team PJ 중심의 핵심 제품 개발 |
+| **03 — Expand** (planned) | Launching and operating multiple businesses · 다양한 사업체 설립 및 운영 |
+
+### Contact
+
+Investment · Partnership · Collaboration — 투자 · 파트너십 · 협업 문의<br>
+📮 **[pj.southkorea@gmail.com](mailto:pj.southkorea@gmail.com)**
+
+---
+
+<p align="center"><sub>© PJ Group · <a href="https://team-pj-lab.github.io">team-pj-lab.github.io</a></sub></p>
