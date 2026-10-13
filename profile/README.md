@@ -39,12 +39,15 @@
 The first team at PJ Group — and today, our **main development team**. CTO: **Park Bugeon (박부건)**.<br>
 PJ Group의 첫 번째 팀이자, 현재 회사의 **메인 개발팀**입니다.
 
-### Leadership
+### Founders
 
-| Name | Role |
-| --- | --- |
-| **Jung Woojin** · 정우진 | Co-CEO · 공동대표 |
-| **Park Bugeon** · 박부건 | Co-CEO · CTO, Team PJ · External Relations · 대외 연락 |
+**Jung Woojin** · 정우진 — *Co-founder & Co-CEO*<br>
+Turns ideas into products — writing our product specs and building the first version of everything we ship, from PRD to MVP. Currently a student at DGIST.
+
+**Park Bugeon** · 박부건 — *Co-founder, Co-CEO & CTO*<br>
+Comes up with the ideas and makes them last — owning our code, architecture and security, and running communications and operations. Currently in high school.
+
+We meet partners together, and we make the big calls together.
 
 ### Status
 
