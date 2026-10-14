@@ -25,6 +25,11 @@
 **PJ Group** is a software company that designs and operates a range of businesses built on software.<br>
 **PJ Group(PJ그룹)** 은 소프트웨어를 중심으로 다양한 사업을 설계하고 운영하는 회사입니다.
 
+### Our one rule
+
+**Every app and web service we build launches within a month.**<br>
+모든 앱과 웹 서비스는 한 달 안에 런칭합니다.
+
 ### What we do
 
 | Area | 분야 | Focus |
