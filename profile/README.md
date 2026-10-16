@@ -50,7 +50,8 @@ PJ Group의 첫 번째 팀이자, 현재 회사의 **메인 개발팀**입니다
 Turns ideas into products — writing our product specs and building the first version of everything we ship, from PRD to MVP. Currently a student at DGIST.
 
 **Park Bugeon** · 박부건 — *Co-founder, Co-CEO & CTO*<br>
-Comes up with the ideas and makes them last — owning our code, architecture and security, and running communications and operations. Currently in high school.
+Comes up with the ideas and makes them last — owning our code, architecture and security, and running communications and operations. Currently in high school.<br>
+📮 [bugeon.korea@gmail.com](mailto:bugeon.korea@gmail.com)
 
 We meet partners together, and we make the big calls together.
 
