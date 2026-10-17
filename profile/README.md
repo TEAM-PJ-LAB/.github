@@ -50,11 +50,12 @@ PJ Group의 첫 번째 팀이자, 현재 회사의 **메인 개발팀**입니다
 ### Founders
 
 **Jung Woojin** · 정우진 — *Co-founder, Co-CEO & COO*<br>
-Turns ideas into products — writing our product specs and building the first version of everything we ship, from PRD to MVP. Currently a student at DGIST.
+Turns ideas into products — writing our product specs and building the first version of everything we ship, from PRD to MVP. Currently a student at DGIST.<br>
+📮 [jeromesone@gmail.com](mailto:jeromesone@gmail.com)
 
 **Park Bugeon** · 박부건 — *Co-founder, Co-CEO & CTO*<br>
 Comes up with the ideas and makes them last — owning our code, architecture and security, and leading external relations with partners and investors. Currently in high school.<br>
-📮 [bugeon.korea@gmail.com](mailto:bugeon.korea@gmail.com)
+📮 [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
 
 We meet partners together, and we make the big calls together.
 
