@@ -30,14 +30,17 @@
 **Every app and web service we build launches within a month.**<br>
 모든 앱과 웹 서비스는 한 달 안에 런칭합니다.
 
-### What we do
+### What we're building
 
-| Area | 분야 | Focus |
+**Main project — [Interlock](https://github.com/TEAM-PJ-LAB/interlock-demo)**<br>
+Run many AI coding agents on one codebase without them overwriting each other: symbol-level claims, edit / commit / merge enforcement, and every decision explained.<br>
+여러 AI 코딩 에이전트가 하나의 코드베이스에서 서로의 작업을 덮어쓰지 않게 해주는 도구.
+
+| Also building | | Status |
 | --- | --- | --- |
-| **Software Development** | 소프트웨어 개발 | Web · App · Backend |
-| **Platform Services** | 플랫폼 서비스 | Marketplace · Community · SaaS |
-| **Data & AI** | 데이터 & AI | Data · ML · Automation |
-| **New Ventures** | 신규 사업 | Incubation · Spin-off · Partnership |
+| **ANABADA** | Fair prices for second-hand goods, from a few photos · 중고 물품 적정가 산정 | In development |
+| **Ryeong-Eon** | Verified AI memorial voice service · AI 추모 음성 서비스 | In design |
+| **SampleLedger** | Checkout & return tracking for physical samples · 실물 샘플 대여·반납 관리 | Planning MVP |
 
 ### Team PJ
 
